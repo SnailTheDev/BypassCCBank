@@ -1,0 +1,10 @@
+Package: com.snail.bypassccbank
+Name: 建设银行屏蔽越狱检测
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: 屏蔽所有版本建设银行的越狱检测和强制关闭弹窗，一劳永逸。
+Maintainer: Snail
+Author: Snail <snailsohi@gmail.com>
+Section: Tweaks
+Version: 0.0.1
+Installed-Size: 72
